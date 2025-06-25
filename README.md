@@ -122,3 +122,9 @@ This project provided hands-on experience with:
 * **CLI Development:** Creating interactive console applications.
 * **CRUD Operations:** Implementing fundamental data management functionalities.
 * **Input Handling & Validation:** Using `Scanner` and basic error handling for user input.
+
+---
+
+### Author
+
+* [Bharat Jaiswal](https://github.com/bharatjaiswal856/student-record-system)
